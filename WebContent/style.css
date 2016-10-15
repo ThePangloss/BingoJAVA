@@ -1,0 +1,45 @@
+body {
+	background-color: WHITE;
+	color: BLACK;
+	font-size: 150% font-family: "Lucide Grande", verdana, arial, helvetica,
+		sans-serif;
+}
+
+h1, th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #c3c3c3;
+}
+
+h1 {
+	font-size: 200%
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+	border: 2px #666 solid;
+	text-align: center;
+	font-size: 180%;
+	width: 20%
+}
+
+#free {
+	background-color: #F66;
+}
+
+#derniernumero {
+	font-size: 400%
+}
+
+#libelleDernierNumero {
+	
+}
+
+.bingo {
+    margin: 1em 11%;
+
+    font-size: 1.2em;
+}

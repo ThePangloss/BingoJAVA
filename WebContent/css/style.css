@@ -1,0 +1,81 @@
+body{
+background-color: white;
+color: black;
+font-size: 150%;
+font-family: "Lucia Grande", Verdana, Arial, Helvetica, sans-serif;
+padding: 25px;
+}
+
+#timerstyle{
+	
+}
+
+#grille{
+	padding-bottom: 5px;
+	visibility: hidden;
+}
+
+h1, th {
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+
+h1 {
+    font-size: 100%;
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+.grid {
+    padding: 10px;
+    border : 2px #666 solid;
+    text-align: center;
+    font-size: 180%;
+    width: 112px;
+}
+
+
+.table-bordered1{
+    color: #0f0f0f;
+}
+
+#free {
+    background-color: #F66;
+    width: 112px;
+}
+
+#tir {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    height: 337px;
+}
+
+.rouge{
+    color: #d43f3a;
+}
+
+#change{
+	margin-bottom: 5px;
+}
+
+#timer{
+	margin-bottom: 5px;
+}
+
+.clicked{
+    background: url("../img/point.png");
+    background-size: 40px;
+    background-repeat : no-repeat;
+    background-position: center; 
+    background-color: rgba(0,0,0,0.5);
+    margin-left:-40px;
+    width:40px;
+    cursor: pointer;
+}
+
+.table-bordered1 tr td:hover
+{
+    cursor: pointer ;
+}
